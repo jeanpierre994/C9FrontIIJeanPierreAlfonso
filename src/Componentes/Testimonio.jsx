@@ -10,7 +10,7 @@ function Testimonio (){
             <div className="contenedor-texto-textimonio">
                 <p className="nombre-testimonio">"Emma Bostian en Suecia"</p>
                 <p className="cargo-testimonio">"Ingeniera de software en Spotify"</p>
-                <p className="texto-testimonio">"<D></D> freeCodeCamp fue la puerta de entrada a mi carrera como desarrollador de software. El plan de estudios bien estructurado llevó mis conocimientos de programación de un nivel de principiante total a un nivel muy seguro. Era todo lo que necesitaba para conseguir mi primer trabajo de desarrollador en una empresa increíble."</p>
+                <p className="texto-testimonio">" 2 HOLA DE NUEVO freeCodeCamp fue la puerta de entrada a mi carrera como desarrollador de software. El plan de estudios bien estructurado llevó mis conocimientos de programación de un nivel de principiante total a un nivel muy seguro. Era todo lo que necesitaba para conseguir mi primer trabajo de desarrollador en una empresa increíble."</p>
             </div>
         
         
